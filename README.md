@@ -1,2 +1,3 @@
-# alx-higher_level_programming
-This is my-higher_level_programming
+Python is fun. 
+I love python because its easy to understand
+as compared to c language programming
